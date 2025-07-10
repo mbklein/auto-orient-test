@@ -1,0 +1,14 @@
+{
+  "name": "auto-orient-test",
+  "version": "1.0.0",
+  "description": "Test sharp's autoOrient() with other transforms",
+  "main": "index.js",
+  "author": "Michael B. Klein",
+  "license": "Apache-2.0",
+  "scripts": {
+    "transform": "node index.js"
+  },
+  "dependencies": {
+    "sharp": "^0.34.3"
+  }
+}
